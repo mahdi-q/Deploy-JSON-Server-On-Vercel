@@ -5,7 +5,7 @@ This repository contains a simple setup for deploying a `json-server` instance t
 ## Prerequisites
 
 1. **Node.js**: Ensure you have Node.js installed (preferably the latest stable version).
-2. **Vercel Account**: Sign up at [vercel](vercel.com) and install the `Vercel CLI` if desired.
+2. **Vercel Account**: Sign up at [vercel](https://vercel.com) and install the `Vercel CLI` if desired.
 
 ## Project Setup
 
